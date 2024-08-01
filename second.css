@@ -1,0 +1,13 @@
+b,i{
+	color:red;
+	background-color:lightblue;
+}
+#para1{
+	color:black;
+	background-color:green;
+}
+#para3{
+	font-weight: 400;
+}
+
+<!-- to select any tag id in html and #idname in css-->
