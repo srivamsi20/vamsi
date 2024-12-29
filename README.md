@@ -1,12 +1,12 @@
 # Welcome to Pramod Zyan's GitHub Profile! 🌟
 
-Hi there! I'm *Pramod Zyan*, a passionate developer who loves creating, learning, and collaborating on exciting projects. Welcome to my little corner of GitHub, where I turn ideas into code and dreams into reality!
+Hi there! I'm *Sri vamsi  *, a passionate developer who loves creating, learning, and collaborating on exciting projects. Welcome to my little corner of GitHub, where I turn ideas into code and dreams into reality!
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pramodzyan&show_icons=true&theme=radical" alt="Pramod's GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramodzyan&show_icons=true&theme=radical" alt="Sri Vamsi GitHub Stats" width="50%"/>
   <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="Pramod's GitHub Streak" width="48%"/>
 </div>
 
@@ -17,7 +17,7 @@ Hi there! I'm *Pramod Zyan*, a passionate developer who loves creating, learning
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on *[Your Current Projects or Interests]*
+- 🔭 I’m currently working on *[phone pay  Projects]*
 - 🌱 I’m currently learning *[Technologies or Skills You Are Learning]*
 - 👯 I’m looking to collaborate on *[Topics or Projects You Want to Work On]*
 - 💬 Ask me about *[Topics You’re Knowledgeable About]*
@@ -30,15 +30,12 @@ Hi there! I'm *Pramod Zyan*, a passionate developer who loves creating, learning
 - *Languages*:  
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+ 
 
 - *Tools & Frameworks*:  
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -51,13 +48,10 @@ Hi there! I'm *Pramod Zyan*, a passionate developer who loves creating, learning
 
 ## 🌐 Connect with Me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/pramod-sai-yallapu-2662921a6">
+  <a href="https://www.linkedin.com/in/pentakota-sri-vamsi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://pramodsai-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="srivamsirlg840@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
