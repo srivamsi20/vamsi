@@ -6,12 +6,12 @@ Hi there! I'm *Sri vamsi  *, a passionate developer who loves creating, learning
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srivamsi&show_icons=true&theme=radical" alt="Sri Vamsi GitHub Stats" width="50%"/>
-  <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="SriVamsi GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srivamsi20&show_icons=true&theme=radical" alt="Sri Vamsi GitHub Stats" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=srivamsi20&theme=radical" alt="SriVamsi GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodzyan&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivamsi20&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>
 
 ---
@@ -60,7 +60,7 @@ Hi there! I'm *Sri vamsi  *, a passionate developer who loves creating, learning
 
 ## 📈 Weekly Development Breakdown
 <!-- You can use GitHub Actions or Wakatime for real-time stats -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakatimeUsername&theme=radical)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srivamsi20&theme=radical)
 
 ---
 
