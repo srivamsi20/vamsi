@@ -7,7 +7,7 @@ Hi there! I'm *Sri vamsi  *, a passionate developer who loves creating, learning
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pramodzyan&show_icons=true&theme=radical" alt="Sri Vamsi GitHub Stats" width="50%"/>
-  <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="Pramod's GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=pramodzyan&theme=radical" alt="SriVamsi GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
