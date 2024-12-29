@@ -1,6 +1,6 @@
 # Welcome to Sri Vamsi Pentakota GitHub Profile! 🌟
 
-Hi there! I'm *Sri vamsi  *, a passionate developer who loves creating, learning, and collaborating on exciting projects. Welcome to my little corner of GitHub, where I turn ideas into code and dreams into reality!
+Hi there! I'm *Sri vamsi*, a passionate developer who loves creating, learning, and collaborating on exciting projects. Welcome to my little corner of GitHub, where I turn ideas into code and dreams into reality!
 
 ---
 
